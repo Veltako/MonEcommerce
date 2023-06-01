@@ -16,7 +16,7 @@ session_start();
  define("RACINE_SITE", "http://" . $_SERVER['HTTP_HOST'] . "/");
 //define("RACINE_SITE", "http://" . $_SERVER['SERVER_NAME'] . ":" . $_SERVER['SERVER_PORT'] . "/");
 
-//--------- VARIABLES
+//--------- VARIABLES//
 // $contenu = '';
 
 //--------- AUTRES INCLUSIONS
